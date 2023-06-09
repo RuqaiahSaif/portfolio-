@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import image from "../assets/images/image2.png";
 import Switcher from "./Switcher";
-import Skills from "./Skills";
+
 import { HashLink as Link } from "react-router-hash-link";
 import "../style/nav.css";
 
