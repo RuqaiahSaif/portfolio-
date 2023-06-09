@@ -14,7 +14,7 @@ function Switcher(){
     <DarkModeSwitch 
               checked={darkSide}
               onChange={toggleDarkMode}
-              size={40}/>
+              size={30}/>
       
     </>
   )

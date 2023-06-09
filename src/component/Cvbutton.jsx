@@ -23,12 +23,12 @@ const Cvbutton = () => {
   };
   return (
     <div>
-      <nav className=" cv fixed top-80 right-5 font-Rampart">
+      <nav className="cv fixed top-80 right-5 font-Rampart">
         <ul className="p-0">
           <li onClick={onClick} className="flex justify-center">
             <i
               class="fa-solid fa-arrow-down
-              mx-2 rounded-full p-1 w-5 h-5 bg-white text-black
+              mx-3 rounded-full p-1 w-5 h-5 bg-white text-black
               hover:transition-all "
             ></i>
             <p className="inline p-1 text-sm text-bold">download Cv</p>
