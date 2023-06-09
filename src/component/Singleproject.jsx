@@ -10,7 +10,7 @@ function Singleproject({ projectImage, name, gitLink, proLink, tools }) {
           <img
             class="h-60 w-full object-cover aspect-square"
             src={projectImage}
-            alt=""
+            alt="Flowbite Logo"
           />
           <div class="absolute h-full w-full bg-black/50 flex items-center justify-center -bottom-10 group-hover:bottom-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
             <div className="flex flex-col">
