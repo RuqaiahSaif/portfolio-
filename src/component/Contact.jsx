@@ -34,42 +34,60 @@ function Contact() {
 
                 <ul>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-brands fa-whatsapp"></i>
                       </p>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="#https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-brands fa-linkedin"></i>
                       </p>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="https://github.com/RuqaiahSaif"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-brands fa-github"></i>
                       </p>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-brands fa-facebook"></i>
                       </p>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-brands fa-instagram"></i>
                       </p>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="#" className="bg-primary-400 hover:opacity-50">
+                    <a
+                      href="https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      className="bg-primary-400 hover:opacity-50"
+                    >
                       <p>
                         <i class="fa-regular fa-envelope"></i>
                       </p>
