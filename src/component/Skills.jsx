@@ -37,9 +37,9 @@ function Skills({ imagsrc }) {
           />
           <div
             className="py-20"
-            data-aos="fade-left"
-            data-aos-offset="300"
-            data-aos-easing="ease-in-sine"
+            // data-aos="fade-left"
+            // data-aos-offset="150"
+            // data-aos-easing="ease-in-sine"
           >
             <p>
               My name is Ruqaiah Saif, I'm a Full stack developer with a great
