@@ -45,7 +45,7 @@ function Contact() {
                   </li>
                   <li class="menu-item">
                     <a
-                      href="#https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
+                      href="https://www.linkedin.com/in/ruqaiah-saif-086b8a24b/"
                       className="bg-primary-400 hover:opacity-50"
                     >
                       <p>
