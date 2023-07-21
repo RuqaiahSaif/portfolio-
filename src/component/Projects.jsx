@@ -6,6 +6,7 @@ import proImage3 from "../assets/images/3.png";
 import proImage4 from "../assets/images/4.png";
 import proImage5 from "../assets/images/5.png";
 import proImage6 from "../assets/images/6.png";
+import proImage7 from "../assets/images/7.png";
 
 import Singleproject from "./Singleproject";
 
@@ -23,11 +24,32 @@ function Projects({ projectImage, name, gitLink, proLink, tools }) {
         <div class="container px-5 py-24 mx-auto">
           <div class="flex flex-wrap -m-4 text-center">
             <Singleproject
+              projectImage={proImage3}
+              name="Mokha Merchent Project"
+              gitLink=""
+              proLink="https://mokhamerchant.com/en"
+              tools={["html", "css", "js", "bootstrap", "laravel"]}
+            />
+            <Singleproject
+              projectImage={proImage6}
+              name="Motah Project"
+              gitLink="https://github.com/RuqaiahSaif/Wakelny"
+              proLink=""
+              tools={["js", "laravel", "tailwind"]}
+            />
+            <Singleproject
+              projectImage={proImage7}
+              name="pebble work"
+              gitLink="https://github.com/202212-GIZ-YE-FEW/DevSquad"
+              proLink="https://pebblework.netlify.app"
+              tools={["Next js", "firebase", "tailwind"]}
+            />
+            <Singleproject
               projectImage={proImage1}
               name="Mad libs project"
               gitLink="https://github.com/202212-GIZ-YE-FEW/mad-libs-codeforce"
               proLink="https://202212-giz-ye-few.github.io/mad-libs-codeforce/"
-              tools={["html", "css", "js"]}
+              tools={["html", "css", "js","github"]}
             />
 
             <Singleproject
@@ -36,14 +58,6 @@ function Projects({ projectImage, name, gitLink, proLink, tools }) {
               gitLink="https://github.com/202212-GIZ-YE-FEW/movie-project-parties-of-the-caribbean"
               proLink="https://202212-giz-ye-few.github.io/movie-project-parties-of-the-caribbean/"
               tools={["html", "css", "js"]}
-            />
-
-            <Singleproject
-              projectImage={proImage3}
-              name="Mokha Merchent Project"
-              gitLink=""
-              proLink="https://mokhamerchant.com/en"
-              tools={["html", "css", "js", "bootstrap", "laravel"]}
             />
 
             <Singleproject
@@ -59,14 +73,6 @@ function Projects({ projectImage, name, gitLink, proLink, tools }) {
               gitLink="https://github.com/RuqaiahSaif/lib-project"
               proLink="https://ruqaiahsaif.github.io/lib-project"
               tools={["html", "css", "js"]}
-            />
-
-            <Singleproject
-              projectImage={proImage6}
-              name="Motah Project"
-              gitLink="https://github.com/RuqaiahSaif/Wakelny"
-              proLink=""
-              tools={["js", "laravel", "tailwind"]}
             />
           </div>
         </div>

@@ -14,7 +14,7 @@ function Hiro() {
         <div class="flex flex-wrap flex-col ">
           <span className="md:text-5xl sm:text-2xl py-4 font-Rampart">
             I'm Ruqaiah Saif
-            <span className="animate-waving-hand text-5xl p-7 text-center">
+            <span className=" text-5xl p-7 text-center">
               👋🏻
             </span>
           </span>
